@@ -1,11 +1,6 @@
 DBA - C++ Implementation
 ===
-This repository includes a implementation based on the work of Francois Petitjean ([1],https://github.com/fpetitjean/DBA.git). It was used to perform experiments on the M5 [2] and UCR [3] data sets for the work of Frederik Brüning, Anne Driemel, Alperen Ergür, Heiko Röglin [4]:
-
-
-
-
-For details on how the algorithm works and what it can be used for, please check the references.
+This repository includes a implementation based on the work of Francois Petitjean ([1],https://github.com/fpetitjean/DBA.git). It was used to perform experiments on the M5 [2] and UCR [3] data sets for the work of Frederik Brüning, Anne Driemel, Alperen Ergür, Heiko Röglin [4]. For details on how the algorithm works and what it can be used for, please check the references.
 
 [1] Francois Petitjean, Alain Ketterlin, and Pierre Gancarski. A global averaging method for dynamic time warping, with applications to clustering. Pattern Recognition, 44(3):678–693, 2011
 
