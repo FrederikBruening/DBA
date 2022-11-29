@@ -1,7 +1,7 @@
 //
 //  DBA
 //
-//  Created by annonymous author(s) based on the work of Francois Petitjean ([1],https://github.com/fpetitjean/DBA.git).
+//  Created by Frederik Brüning based on the work of Francois Petitjean ([1],https://github.com/fpetitjean/DBA.git).
 //
 //  [1] Francois Petitjean, Alain Ketterlin, and Pierre Gancarski. A global averaging method for dynamic time warping, with applications to clustering. Pattern Recognition, 44(3):678–693, 2011
 
